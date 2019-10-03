@@ -1,2 +1,1 @@
-# test
-hgyguygty
+c++ competitive snippet
